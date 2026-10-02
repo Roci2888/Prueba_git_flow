@@ -1,0 +1,191 @@
+### MAYOR CANTIDAD DE MUERTES POR CADA PAIS###
+### INICIO ARCHIVO ###
+dia;mes;pais; region;cantidad muertes
+26;07;Benin;Africa;35
+20;07;Papua New Guinea;Western Pacific;1
+27;07;Angola;Africa;41
+22;01;Cambodia;Western Pacific;0
+27;07;Sudan;Eastern Mediterranean;720
+27;07;Paraguay;Americas;43
+20;07;Kazakhstan;Europe;585
+27;07;Portugal;Europe;1719
+27;07;Syria;Eastern Mediterranean;40
+22;01;Grenada;Americas;0
+23;04;Bahamas;Americas;11
+26;07;Greece;Europe;202
+22;01;Mongolia;Western Pacific;0
+13;07;Latvia;Europe;31
+27;07;Morocco;Eastern Mediterranean;316
+27;07;Iran;Eastern Mediterranean;15912
+27;07;Mali;Africa;124
+27;07;Panama;Americas;1322
+24;07;Guyana;Americas;20
+27;07;Guatemala;Americas;1761
+27;07;Iraq;Eastern Mediterranean;4458
+27;07;Chile;Americas;9187
+22;01;Laos;Western Pacific;0
+27;07;Nepal;South-East Asia;48
+27;07;Argentina;Americas;3059
+27;07;Ukraine;Europe;1636
+08;05;Tanzania;Africa;21
+22;01;Seychelles;Africa;0
+27;07;Zambia;Africa;140
+26;07;Ghana;Africa;168
+10;04;Belize;Americas;2
+22;01;Holy See;Europe;0
+27;07;Congo (Brazzaville);Africa;54
+27;07;Bahrain;Eastern Mediterranean;141
+27;07;India;South-East Asia;33408
+27;07;Canada;Americas;8944
+16;07;Maldives;South-East Asia;15
+10;07;Guinea-Bissau;Africa;26
+27;07;Turkey;Europe;5630
+27;07;Belgium;Europe;9822
+26;07;Namibia;Africa;8
+03;07;Finland;Europe;329
+23;06;Comoros;Africa;7
+27;07;North Macedonia;Europe;466
+06;04;Trinidad and Tobago;Americas;8
+27;07;South Africa;Africa;7067
+20;07;Georgia;Europe;16
+24;07;Central African Republic;Africa;59
+03;06;Jamaica;Americas;10
+22;01;Saint Kitts and Nevis;Americas;0
+27;07;Peru;Americas;18418
+27;07;Germany;Europe;9125
+27;07;Yemen;Eastern Mediterranean;483
+22;01;Eritrea;Africa;0
+22;01;Fiji;Western Pacific;0
+27;07;Guinea;Africa;45
+12;07;Somalia;Eastern Mediterranean;93
+12;07;Chad;Africa;75
+09;07;Sao Tome and Principe;Africa;14
+27;07;Madagascar;Africa;91
+02;06;Thailand;South-East Asia;58
+27;07;Libya;Eastern Mediterranean;64
+02;07;Equatorial Guinea;Africa;51
+27;07;Costa Rica;Americas;115
+22;01;Vietnam;Western Pacific;0
+11;05;Taiwan*;Western Pacific;7
+27;07;Sweden;Europe;5700
+27;07;West Bank and Gaza;Eastern Mediterranean;78
+26;07;Malawi;Africa;99
+16;06;Andorra;Europe;52
+23;06;Liechtenstein;Europe;2
+27;07;Poland;Europe;1676
+27;07;Nigeria;Africa;860
+27;07;Kuwait;Eastern Mediterranean;438
+18;07;Jordan;Eastern Mediterranean;11
+27;07;Bulgaria;Europe;347
+17;06;Tunisia;Eastern Mediterranean;50
+27;07;Croatia;Europe;139
+27;07;Uruguay;Americas;35
+01;06;Sri Lanka;South-East Asia;11
+22;01;Timor-Leste;South-East Asia;0
+27;07;United Kingdom;Europe;45844
+27;07;United Arab Emirates;Eastern Mediterranean;345
+27;07;Kenya;Africa;285
+27;07;Switzerland;Europe;1978
+24;05;Spain;Europe;28752
+26;07;Lebanon;Eastern Mediterranean;51
+22;07;Djibouti;Eastern Mediterranean;58
+16;06;Brunei;Western Pacific;3
+27;07;Venezuela;Americas;146
+26;07;Liberia;Africa;72
+11;07;Cuba;Americas;87
+27;07;Azerbaijan;Europe;423
+22;01;Saint Lucia;Americas;0
+23;07;Mauritania;Africa;156
+27;05;Burkina Faso;Africa;53
+23;05;San Marino;Europe;42
+27;07;Israel;Europe;474
+27;07;Australia;Western Pacific;167
+27;07;Tajikistan;Europe;60
+03;06;Estonia;Europe;69
+27;07;Cameroon;Africa;391
+18;06;Cyprus;Europe;19
+26;07;Malaysia;Western Pacific;124
+27;07;Oman;Eastern Mediterranean;393
+20;04;Iceland;Europe;10
+27;07;Armenia;Europe;711
+24;07;Gabon;Africa;49
+27;07;South Korea;Western Pacific;300
+27;07;Austria;Europe;713
+20;07;Mozambique;Africa;11
+27;07;El Salvador;Americas;408
+23;04;Monaco;Europe;4
+23;07;Luxembourg;Europe;112
+27;07;Brazil;Americas;87618
+27;07;Algeria;Africa;1163
+25;07;Slovenia;Europe;116
+24;07;Cabo Verde;Africa;22
+26;07;Lesotho;Africa;12
+27;07;US;Americas;148011
+16;04;Antigua and Barbuda;Americas;3
+26;05;Western Sahara;Africa;1
+27;07;Ecuador;Americas;5532
+27;07;Colombia;Americas;8777
+27;07;South Sudan;Africa;46
+18;07;Hungary;Europe;596
+26;07;Japan;Western Pacific;998
+27;07;Moldova;Europe;748
+27;07;Belarus;Europe;538
+27;04;Mauritius;Africa;10
+27;07;Albania;Europe;144
+27;05;New Zealand;Western Pacific;22
+27;07;Eswatini;Africa;34
+27;07;Senegal;Africa;194
+27;07;Italy;Europe;35112
+27;07;Honduras;Americas;1166
+27;07;Ethiopia;Africa;228
+27;07;Haiti;Americas;158
+13;04;Burundi;Africa;1
+27;07;Afghanistan;Eastern Mediterranean;1269
+14;07;Singapore;Western Pacific;27
+27;07;Czechia;Europe;373
+27;07;Egypt;Eastern Mediterranean;4652
+20;07;Sierra Leone;Africa;66
+27;07;Bolivia;Americas;2647
+27;07;Russia;Europe;13334
+29;05;Malta;Europe;9
+27;07;Saudi Arabia;Eastern Mediterranean;2760
+27;07;Netherlands;Europe;6160
+27;07;Pakistan;Eastern Mediterranean;5842
+27;07;Kosovo;Europe;185
+27;07;Gambia;Africa;8
+26;07;Qatar;Eastern Mediterranean;165
+25;07;Ireland;Europe;1764
+27;07;China;Western Pacific;4656
+16;05;Slovakia;Europe;28
+27;07;Serbia;Europe;543
+18;07;Lithuania;Europe;80
+27;07;France;Europe;30212
+27;07;Bosnia and Herzegovina;Europe;294
+27;07;Kyrgyzstan;Europe;1301
+22;01;Bhutan;South-East Asia;0
+27;07;Romania;Europe;2206
+26;07;Togo;Africa;18
+15;07;Niger;Africa;69
+27;07;Philippines;Western Pacific;1945
+18;07;Rwanda;Africa;5
+26;07;Cote d'Ivoire;Africa;96
+27;07;Uzbekistan;Europe;121
+27;07;Congo (Kinshasa);Africa;208
+29;04;Burma;South-East Asia;6
+27;07;Bangladesh;South-East Asia;2965
+21;07;Nicaragua;Americas;108
+29;04;Barbados;Americas;7
+17;07;Norway;Europe;255
+22;01;Saint Vincent and the Grenadines;Americas;0
+27;07;Botswana;Africa;2
+27;07;Dominican Republic;Americas;1083
+24;07;Denmark;Europe;613
+27;07;Zimbabwe;Africa;36
+26;07;Uganda;Africa;2
+27;07;Mexico;Americas;44022
+27;07;Suriname;Americas;24
+27;07;Montenegro;Europe;45
+22;01;Greenland;Europe;0
+27;07;Indonesia;South-East Asia;4838
+22;01;Dominica;Americas;0
+### FIN ARCHIVO ###

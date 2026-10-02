@@ -1,0 +1,1313 @@
+### CASOS ACTIVOS MENSUALES POR PAIS ###
+### INICIO ARCHIVO ###
+mes pais;region;cantidad activos
+2020-03;Armenia;Europe;3882
+2020-01;North Macedonia;Europe;0
+2020-02;Bhutan;South-East Asia;0
+2020-04;Kenya;Africa;5362
+2020-01;Fiji;Western Pacific;0
+2020-05;Gambia;Africa;262
+2020-06;Norway;Europe;9796
+2020-02;Zimbabwe;Africa;0
+2020-05;Yemen;Eastern Mediterranean;3181
+2020-05;Zimbabwe;Africa;1277
+2020-02;Saudi Arabia;Eastern Mediterranean;0
+2020-05;Ireland;Europe;103142
+2020-02;Mongolia;Western Pacific;0
+2020-07;Greece;Europe;61277
+2020-03;Philippines;Western Pacific;10415
+2020-04;Malta;Europe;7697
+2020-01;West Bank and Gaza;Eastern Mediterranean;0
+2020-07;Liberia;Africa;13076
+2020-06;Mozambique;Africa;17783
+2020-05;Suriname;Americas;34
+2020-05;Burkina Faso;Africa;3200
+2020-02;Montenegro;Europe;0
+2020-07;New Zealand;Western Pacific;617
+2020-03;Slovakia;Europe;3390
+2020-06;Sudan;Eastern Mediterranean;126678
+2020-06;Slovakia;Europe;3664
+2020-04;Afghanistan;Eastern Mediterranean;23450
+2020-03;Suriname;Americas;88
+2020-02;Egypt;Eastern Mediterranean;14
+2020-07;Paraguay;Americas;41350
+2020-07;Argentina;Americas;1704500
+2020-05;Switzerland;Europe;49335
+2020-05;Congo (Kinshasa);Africa;39463
+2020-02;Comoros;Africa;0
+2020-05;Uganda;Africa;4026
+2020-02;New Zealand;Western Pacific;2
+2020-01;Germany;Europe;18
+2020-06;China;Western Pacific;55850
+2020-07;Sierra Leone;Africa;11000
+2020-07;Colombia;Americas;2371141
+2020-02;Georgia;Europe;4
+2020-07;Maldives;South-East Asia;13913
+2020-06;Zambia;Africa;6882
+2020-02;Sweden;Europe;53
+2020-03;Paraguay;Americas;515
+2020-01;Burma;South-East Asia;0
+2020-07;Suriname;Americas;8829
+2020-01;Haiti;Americas;0
+2020-02;Iran;Eastern Mediterranean;1152
+2020-04;Saint Vincent and the Grenadines;Americas;254
+2020-02;Monaco;Europe;1
+2020-02;Mozambique;Africa;0
+2020-06;Timor-Leste;South-East Asia;720
+2020-06;Serbia;Europe;40478
+2020-06;Finland;Europe;18346
+2020-07;Serbia;Europe;244625
+2020-04;Sao Tome and Principe;Africa;106
+2020-01;Monaco;Europe;0
+2020-05;Iceland;Europe;631
+2020-06;Uganda;Africa;9612
+2020-03;Western Sahara;Africa;0
+2020-02;South Sudan;Africa;0
+2020-03;Sweden;Europe;42922
+2020-05;Colombia;Americas;355626
+2020-04;Botswana;Africa;397
+2020-07;Egypt;Eastern Mediterranean;1436980
+2020-07;Botswana;Africa;10696
+2020-02;Bangladesh;South-East Asia;0
+2020-01;Botswana;Africa;0
+2020-05;Portugal;Europe;620932
+2020-05;Tanzania;Africa;9399
+2020-01;Spain;Europe;0
+2020-04;Finland;Europe;59000
+2020-03;Spain;Europe;585063
+2020-04;Mozambique;Africa;1062
+2020-02;Portugal;Europe;0
+2020-04;Dominican Republic;Americas;98867
+2020-06;Australia;Western Pacific;14436
+2020-03;South Africa;Africa;9978
+2020-05;Vietnam;Western Pacific;1583
+2020-07;Norway;Europe;13684
+2020-05;Paraguay;Americas;14609
+2020-05;Brunei;Western Pacific;160
+2020-03;Colombia;Americas;6013
+2020-07;Namibia;Africa;24729
+2020-02;Tanzania;Africa;0
+2020-07;Venezuela;Americas;161168
+2020-07;Lesotho;Africa;5149
+2020-05;Australia;Western Pacific;19066
+2020-03;Thailand;South-East Asia;11522
+2020-01;Equatorial Guinea;Africa;0
+2020-07;Japan;Western Pacific;105666
+2020-01;Timor-Leste;South-East Asia;0
+2020-03;Qatar;Eastern Mediterranean;9786
+2020-03;Cambodia;Western Pacific;1089
+2020-01;Colombia;Americas;0
+2020-07;Chile;Americas;625619
+2020-01;India;South-East Asia;2
+2020-01;Argentina;Americas;0
+2020-06;Kenya;Africa;76707
+2020-02;Cuba;Americas;0
+2020-04;Oman;Eastern Mediterranean;26391
+2020-07;Iran;Eastern Mediterranean;656556
+2020-02;Seychelles;Africa;0
+2020-01;Sri Lanka;South-East Asia;5
+2020-04;Dominica;Americas;260
+2020-02;South Africa;Africa;0
+2020-04;North Macedonia;Europe;21905
+2020-04;Uganda;Africa;1164
+2020-03;Germany;Europe;516236
+2020-05;Namibia;Africa;189
+2020-04;Comoros;Africa;1
+2020-06;Malta;Europe;1065
+2020-07;Zambia;Africa;25141
+2020-05;Iraq;Eastern Mediterranean;39992
+2020-03;Bahrain;Eastern Mediterranean;4693
+2020-06;Belgium;Europe;1015728
+2020-01;Jamaica;Americas;0
+2020-04;Lebanon;Eastern Mediterranean;15497
+2020-05;Serbia;Europe;188316
+2020-05;Bahamas;Americas;1391
+2020-02;Malta;Europe;0
+2020-02;Malaysia;Western Pacific;296
+2020-01;Cabo Verde;Africa;0
+2020-07;Tajikistan;Europe;33912
+2020-06;Greece;Europe;48080
+2020-01;United Kingdom;Europe;2
+2020-01;Czechia;Europe;0
+2020-03;Iceland;Europe;10259
+2020-06;Morocco;Eastern Mediterranean;42548
+2020-01;Honduras;Americas;0
+2020-07;Libya;Eastern Mediterranean;33250
+2020-01;Estonia;Europe;0
+2020-04;Saudi Arabia;Eastern Mediterranean;220819
+2020-06;Belize;Americas;76
+2020-05;Greenland;Europe;13
+2020-07;China;Western Pacific;63339
+2020-05;Afghanistan;Eastern Mediterranean;196532
+2020-04;Cuba;Americas;17885
+2020-05;Slovenia;Europe;18923
+2020-02;Ethiopia;Africa;0
+2020-07;Kenya;Africa;190683
+2020-05;Ethiopia;Africa;8772
+2020-02;Slovenia;Europe;0
+2020-07;Bosnia and Herzegovina;Europe;98383
+2020-07;Kosovo;Europe;62267
+2020-01;Croatia;Europe;0
+2020-05;Zambia;Africa;10058
+2020-05;Cuba;Americas;11942
+2020-02;Western Sahara;Africa;0
+2020-05;Malta;Europe;2773
+2020-03;Belize;Americas;18
+2020-03;Jordan;Eastern Mediterranean;2282
+2020-01;Bolivia;Americas;0
+2020-03;Cuba;Americas;965
+2020-03;Denmark;Europe;31630
+2020-02;Romania;Europe;8
+2020-07;Central African Republic;Africa;82047
+2020-01;Hungary;Europe;0
+2020-06;Congo (Kinshasa);Africa;127909
+2020-04;Montenegro;Europe;6048
+2020-01;Belarus;Europe;0
+2020-06;Canada;Americas;2770222
+2020-04;Morocco;Eastern Mediterranean;58733
+2020-03;Canada;Americas;51277
+2020-03;Antigua and Barbuda;Americas;61
+2020-04;Spain;Europe;2621463
+2020-06;Andorra;Europe;727
+2020-03;Chile;Americas;18166
+2020-06;Seychelles;Africa;204
+2020-04;Zambia;Africa;892
+2020-03;Azerbaijan;Europe;1680
+2020-04;Papua New Guinea;Western Pacific;139
+2020-02;Congo (Brazzaville);Africa;0
+2020-03;Tajikistan;Europe;0
+2020-01;Burundi;Africa;0
+2020-03;Uganda;Africa;211
+2020-03;Kenya;Africa;357
+2020-01;Lithuania;Europe;0
+2020-03;South Korea;Western Pacific;188325
+2020-06;Vietnam;Western Pacific;585
+2020-05;Oman;Eastern Mediterranean;122348
+2020-01;Turkey;Europe;0
+2020-04;Monaco;Europe;1941
+2020-05;Sweden;Europe;801301
+2020-03;Tunisia;Eastern Mediterranean;2393
+2020-02;Austria;Europe;19
+2020-07;Algeria;Africa;140239
+2020-01;Iceland;Europe;0
+2020-04;Jamaica;Americas;4300
+2020-01;Denmark;Europe;0
+2020-03;Pakistan;Eastern Mediterranean;17082
+2020-07;US;Americas;61226172
+2020-05;Kuwait;Eastern Mediterranean;298878
+2020-02;Finland;Europe;16
+2020-05;Libya;Eastern Mediterranean;1247
+2020-07;Cabo Verde;Africa;23518
+2020-06;US;Americas;43981001
+2020-03;Ecuador;Americas;15962
+2020-02;Russia;Europe;22
+2020-01;Ukraine;Europe;0
+2020-02;US;Americas;289
+2020-01;South Sudan;Africa;0
+2020-04;Nigeria;Africa;14893
+2020-03;US;Americas;1045178
+2020-03;Namibia;Africa;81
+2020-05;Greece;Europe;38832
+2020-05;China;Western Pacific;55984
+2020-04;West Bank and Gaza;Eastern Mediterranean;6839
+2020-01;Malta;Europe;0
+2020-01;Bulgaria;Europe;0
+2020-05;Lithuania;Europe;16434
+2020-01;Cuba;Americas;0
+2020-04;Burkina Faso;Africa;6469
+2020-07;Denmark;Europe;10214
+2020-03;Papua New Guinea;Western Pacific;12
+2020-01;Saint Lucia;Americas;0
+2020-01;Iran;Eastern Mediterranean;0
+2020-02;Andorra;Europe;0
+2020-05;Burundi;Africa;428
+2020-02;Syria;Eastern Mediterranean;0
+2020-06;Sierra Leone;Africa;12440
+2020-04;South Africa;Africa;63095
+2020-02;Cambodia;Western Pacific;11
+2020-07;Iceland;Europe;438
+2020-01;Mongolia;Western Pacific;0
+2020-04;Australia;Western Pacific;94906
+2020-04;Thailand;South-East Asia;27631
+2020-05;Guinea-Bissau;Africa;25804
+2020-03;Gambia;Africa;26
+2020-02;Mauritius;Africa;0
+2020-04;Switzerland;Europe;290673
+2020-06;Cote d'Ivoire;Africa;96024
+2020-03;Czechia;Europe;25707
+2020-02;Lebanon;Eastern Mediterranean;15
+2020-01;Djibouti;Eastern Mediterranean;0
+2020-05;Lesotho;Africa;25
+2020-01;Ghana;Africa;0
+2020-07;South Sudan;Africa;36362
+2020-07;Azerbaijan;Europe;219673
+2020-06;United Arab Emirates;Eastern Mediterranean;421890
+2020-06;Eswatini;Africa;7423
+2020-02;Dominica;Americas;0
+2020-01;Venezuela;Americas;0
+2020-01;Laos;Western Pacific;0
+2020-07;Nepal;South-East Asia;192259
+2020-04;Sweden;Europe;338823
+2020-03;Bangladesh;South-East Asia;366
+2020-03;Monaco;Europe;419
+2020-03;Eswatini;Africa;75
+2020-06;Iraq;Eastern Mediterranean;376497
+2020-01;Singapore;Western Pacific;53
+2020-05;Spain;Europe;1915710
+2020-02;Gambia;Africa;0
+2020-05;Cabo Verde;Africa;6522
+2020-06;Comoros;Africa;2441
+2020-05;Jamaica;Americas;11303
+2020-02;Eritrea;Africa;0
+2020-07;Spain;Europe;2163568
+2020-05;Uruguay;Americas;4759
+2020-02;Kenya;Africa;0
+2020-01;Russia;Europe;2
+2020-05;Barbados;Americas;541
+2020-06;Israel;Europe;120916
+2020-02;Algeria;Africa;5
+2020-07;Austria;Europe;32784
+2020-04;Holy See;Europe;201
+2020-07;Holy See;Europe;0
+2020-03;Central African Republic;Africa;41
+2020-07;Sao Tome and Principe;Africa;9262
+2020-05;Netherlands;Europe;1178879
+2020-07;Haiti;Americas;98322
+2020-02;Ghana;Africa;0
+2020-01;Indonesia;South-East Asia;0
+2020-01;Sweden;Europe;1
+2020-01;Holy See;Europe;0
+2020-04;Albania;Europe;7002
+2020-04;New Zealand;Western Pacific;17990
+2020-05;Tajikistan;Europe;33731
+2020-05;Mali;Africa;10900
+2020-03;South Sudan;Africa;0
+2020-01;Somalia;Eastern Mediterranean;0
+2020-05;Norway;Europe;168979
+2020-07;Tunisia;Eastern Mediterranean;4557
+2020-05;Fiji;Western Pacific;109
+2020-04;Georgia;Europe;7089
+2020-03;Costa Rica;Americas;2934
+2020-05;Pakistan;Eastern Mediterranean;887722
+2020-06;Madagascar;Africa;27068
+2020-01;France;Europe;30
+2020-06;Switzerland;Europe;11908
+2020-07;United Arab Emirates;Eastern Mediterranean;236334
+2020-03;Estonia;Europe;7205
+2020-04;Senegal;Africa;6283
+2020-05;Armenia;Europe;85892
+2020-03;Indonesia;South-East Asia;10411
+2020-01;Malaysia;Western Pacific;38
+2020-06;Nigeria;Africa;332522
+2020-03;Trinidad and Tobago;Americas;733
+2020-03;Croatia;Europe;6013
+2020-07;Ireland;Europe;15082
+2020-07;Bhutan;South-East Asia;419
+2020-03;Sudan;Eastern Mediterranean;31
+2020-04;Gambia;Africa;107
+2020-04;Egypt;Eastern Mediterranean;57005
+2020-01;Nepal;South-East Asia;7
+2020-01;Kenya;Africa;0
+2020-02;Guyana;Americas;0
+2020-04;Norway;Europe;195109
+2020-04;Western Sahara;Africa;102
+2020-06;Kyrgyzstan;Europe;32973
+2020-05;Mexico;Americas;346813
+2020-04;Bulgaria;Europe;21107
+2020-07;Bulgaria;Europe;98445
+2020-03;Honduras;Americas;789
+2020-02;Mexico;Americas;5
+2020-01;Bangladesh;South-East Asia;0
+2020-01;Suriname;Americas;0
+2020-07;Gambia;Africa;1690
+2020-06;Japan;Western Pacific;30676
+2020-05;Saint Lucia;Americas;22
+2020-02;Burma;South-East Asia;0
+2020-06;Guatemala;Americas;255126
+2020-05;Guyana;Americas;1906
+2020-04;Pakistan;Eastern Mediterranean;189646
+2020-04;El Salvador;Americas;3957
+2020-03;Norway;Europe;51136
+2020-01;Sudan;Eastern Mediterranean;0
+2020-07;Malta;Europe;251
+2020-01;Costa Rica;Americas;0
+2020-01;Azerbaijan;Europe;0
+2020-02;Nicaragua;Americas;0
+2020-07;Israel;Europe;599220
+2020-06;Gambia;Africa;273
+2020-05;Liberia;Africa;2891
+2020-06;Hungary;Europe;30860
+2020-06;Burkina Faso;Africa;1703
+2020-05;Chile;Americas;1104811
+2020-01;Maldives;South-East Asia;0
+2020-01;Moldova;Europe;0
+2020-01;Pakistan;Eastern Mediterranean;0
+2020-06;Spain;Europe;1991507
+2020-02;Norway;Europe;23
+2020-04;Togo;Africa;976
+2020-07;Taiwan*;Western Pacific;151
+2020-01;Dominican Republic;Americas;0
+2020-02;Pakistan;Eastern Mediterranean;14
+2020-06;Iran;Eastern Mediterranean;885681
+2020-04;Kosovo;Europe;9870
+2020-03;Rwanda;Africa;579
+2020-06;Eritrea;Africa;1843
+2020-06;San Marino;Europe;3090
+2020-07;El Salvador;Americas;115392
+2020-05;Kazakhstan;Europe;108058
+2020-02;Brazil;Americas;5
+2020-04;Benin;Africa;667
+2020-03;Brunei;Western Pacific;1515
+2020-05;Estonia;Europe;23100
+2020-03;Netherlands;Europe;96153
+2020-06;Senegal;Africa;55201
+2020-07;Guinea;Africa;28065
+2020-06;Kazakhstan;Europe;186145
+2020-01;Cameroon;Africa;0
+2020-04;Iraq;Eastern Mediterranean;16123
+2020-02;Jamaica;Americas;0
+2020-02;Afghanistan;Eastern Mediterranean;6
+2020-02;France;Europe;345
+2020-06;Slovenia;Europe;1137
+2020-06;Kuwait;Eastern Mediterranean;297504
+2020-01;Norway;Europe;0
+2020-01;Cambodia;Western Pacific;5
+2020-03;Liechtenstein;Europe;490
+2020-05;Antigua and Barbuda;Americas;122
+2020-02;Gabon;Africa;0
+2020-02;Kuwait;Eastern Mediterranean;171
+2020-05;South Africa;Africa;253343
+2020-04;Kazakhstan;Europe;36058
+2020-01;Belgium;Europe;0
+2020-01;Japan;Western Pacific;50
+2020-06;El Salvador;Americas;55922
+2020-02;Canada;Americas;234
+2020-03;Bosnia and Herzegovina;Europe;2704
+2020-04;Liechtenstein;Europe;212
+2020-06;Pakistan;Eastern Mediterranean;2622600
+2020-02;Chad;Africa;0
+2020-01;South Korea;Western Pacific;36
+2020-07;Chad;Africa;414
+2020-07;Bahrain;Eastern Mediterranean;114516
+2020-03;North Macedonia;Europe;2380
+2020-02;Argentina;Americas;0
+2020-04;Cambodia;Western Pacific;997
+2020-02;Lithuania;Europe;2
+2020-07;Pakistan;Eastern Mediterranean;1916198
+2020-05;Chad;Africa;7700
+2020-01;Antigua and Barbuda;Americas;0
+2020-04;Libya;Eastern Mediterranean;842
+2020-03;Saint Vincent and the Grenadines;Americas;14
+2020-01;Cote d'Ivoire;Africa;0
+2020-03;Ghana;Africa;1068
+2020-01;Italy;Europe;2
+2020-07;Cyprus;Europe;4409
+2020-06;North Macedonia;Europe;65852
+2020-03;Congo (Kinshasa);Africa;591
+2020-05;Ghana;Africa;123316
+2020-02;Malawi;Africa;0
+2020-05;Japan;Western Pacific;173228
+2020-03;Iran;Eastern Mediterranean;319347
+2020-02;Kazakhstan;Europe;0
+2020-01;Madagascar;Africa;0
+2020-07;Senegal;Africa;70589
+2020-02;Kyrgyzstan;Europe;0
+2020-07;Croatia;Europe;26929
+2020-07;Cameroon;Africa;64680
+2020-02;Belize;Americas;0
+2020-04;Central African Republic;Africa;313
+2020-07;Greenland;Europe;1
+2020-03;India;South-East Asia;9208
+2020-03;Ethiopia;Africa;187
+2020-07;Hungary;Europe;16741
+2020-03;Madagascar;Africa;271
+2020-06;Ecuador;Americas;608800
+2020-05;Venezuela;Americas;14856
+2020-06;Latvia;Europe;6552
+2020-07;Poland;Europe;253415
+2020-03;Oman;Eastern Mediterranean;1340
+2020-02;Papua New Guinea;Western Pacific;0
+2020-05;Western Sahara;Africa;28
+2020-03;Guinea-Bissau;Africa;26
+2020-01;South Africa;Africa;0
+2020-01;Thailand;South-East Asia;70
+2020-01;Niger;Africa;0
+2020-07;Slovakia;Europe;10280
+2020-03;Russia;Europe;11602
+2020-03;Belgium;Europe;76809
+2020-02;Benin;Africa;0
+2020-04;Italy;Europe;3017835
+2020-07;Togo;Africa;5811
+2020-06;Oman;Eastern Mediterranean;416379
+2020-05;Luxembourg;Europe;5752
+2020-06;Brunei;Western Pacific;15
+2020-03;Vietnam;Western Pacific;1910
+2020-02;Greenland;Europe;0
+2020-01;Iraq;Eastern Mediterranean;0
+2020-04;Madagascar;Africa;2127
+2020-07;Cuba;Americas;1633
+2020-05;South Korea;Western Pacific;28980
+2020-03;Serbia;Europe;5756
+2020-06;Bangladesh;South-East Asia;1856115
+2020-04;Barbados;Americas;1418
+2020-04;Luxembourg;Europe;63791
+2020-05;Kyrgyzstan;Europe;10928
+2020-02;Turkey;Europe;0
+2020-03;Guyana;Americas;120
+2020-02;Mauritania;Africa;0
+2020-05;Belarus;Europe;581905
+2020-01;Uganda;Africa;0
+2020-06;Sweden;Europe;1450366
+2020-06;Mali;Africa;17470
+2020-02;Cote d'Ivoire;Africa;0
+2020-04;Bolivia;Americas;12976
+2020-02;Zambia;Africa;0
+2020-07;Cambodia;Western Pacific;903
+2020-02;United Kingdom;Europe;490
+2020-07;Eritrea;Africa;3179
+2020-06;Mexico;Americas;650485
+2020-05;Argentina;Americas;179065
+2020-03;Panama;Americas;7156
+2020-03;Barbados;Americas;255
+2020-01;Greece;Europe;0
+2020-06;Maldives;South-East Asia;20868
+2020-06;Benin;Africa;10700
+2020-07;Laos;Western Pacific;4
+2020-05;Monaco;Europe;212
+2020-03;Portugal;Europe;45788
+2020-01;Tunisia;Eastern Mediterranean;0
+2020-04;Kyrgyzstan;Europe;8380
+2020-04;Bangladesh;South-East Asia;66071
+2020-05;Laos;Western Pacific;189
+2020-05;Russia;Europe;5893168
+2020-04;Turkey;Europe;1671945
+2020-01;Serbia;Europe;0
+2020-05;Trinidad and Tobago;Americas;106
+2020-02;Belgium;Europe;13
+2020-04;Estonia;Europe;36007
+2020-01;Ireland;Europe;0
+2020-07;Grenada;Americas;0
+2020-07;Dominican Republic;Americas;629454
+2020-01;Finland;Europe;3
+2020-02;Sri Lanka;South-East Asia;7
+2020-01;Kazakhstan;Europe;0
+2020-03;Greece;Europe;12573
+2020-06;Philippines;Western Pacific;581796
+2020-04;Lithuania;Europe;26354
+2020-06;Botswana;Africa;1454
+2020-03;Zimbabwe;Africa;44
+2020-05;Liechtenstein;Europe;5
+2020-04;Timor-Leste;South-East Asia;365
+2020-02;Bosnia and Herzegovina;Europe;0
+2020-03;Yemen;Eastern Mediterranean;0
+2020-06;Lebanon;Eastern Mediterranean;15741
+2020-03;Eritrea;Africa;65
+2020-05;Togo;Africa;4473
+2020-05;El Salvador;Americas;25209
+2020-06;Kosovo;Europe;17859
+2020-07;San Marino;Europe;15
+2020-03;Sri Lanka;South-East Asia;1363
+2020-02;Sao Tome and Principe;Africa;0
+2020-01;Kyrgyzstan;Europe;0
+2020-07;Monaco;Europe;212
+2020-04;Congo (Kinshasa);Africa;7191
+2020-05;Nepal;South-East Asia;11311
+2020-01;New Zealand;Western Pacific;0
+2020-03;China;Western Pacific;456963
+2020-01;Greenland;Europe;0
+2020-02;Iraq;Eastern Mediterranean;34
+2020-05;Azerbaijan;Europe;34651
+2020-01;Belize;Americas;0
+2020-05;Bahrain;Eastern Mediterranean;109646
+2020-05;Belgium;Europe;974597
+2020-07;Russia;Europe;5711019
+2020-05;Croatia;Europe;8084
+2020-02;Bahrain;Eastern Mediterranean;167
+2020-04;Azerbaijan;Europe;18863
+2020-06;Turkey;Europe;725443
+2020-04;US;Americas;16769592
+2020-03;Maldives;South-East Asia;211
+2020-07;Bangladesh;South-East Asia;2420322
+2020-03;Nepal;South-East Asia;25
+2020-02;Indonesia;South-East Asia;0
+2020-07;Ecuador;Americas;908232
+2020-03;Malaysia;Western Pacific;23713
+2020-01;US;Americas;38
+2020-07;Belize;Americas;387
+2020-04;Burma;South-East Asia;2120
+2020-06;Albania;Europe;16917
+2020-04;Belarus;Europe;130885
+2020-04;Burundi;Africa;121
+2020-06;Argentina;Americas;729320
+2020-06;Burma;South-East Asia;2425
+2020-01;Rwanda;Africa;0
+2020-06;Azerbaijan;Europe;142166
+2020-03;Afghanistan;Eastern Mediterranean;1164
+2020-03;Niger;Africa;108
+2020-01;Papua New Guinea;Western Pacific;0
+2020-06;Cameroon;Africa;93607
+2020-06;Georgia;Europe;4019
+2020-01;Saint Vincent and the Grenadines;Americas;0
+2020-04;Netherlands;Europe;750785
+2020-07;Uganda;Africa;1902
+2020-07;Ghana;Africa;110034
+2020-05;Saint Vincent and the Grenadines;Americas;195
+2020-01;Mauritania;Africa;0
+2020-02;Holy See;Europe;0
+2020-04;Latvia;Europe;16902
+2020-03;Mongolia;Western Pacific;146
+2020-05;Seychelles;Africa;43
+2020-05;Guinea;Africa;44732
+2020-01;Barbados;Americas;0
+2020-05;Bosnia and Herzegovina;Europe;23494
+2020-05;Cyprus;Europe;12248
+2020-07;Luxembourg;Europe;21942
+2020-03;Somalia;Eastern Mediterranean;28
+2020-02;Singapore;Western Pacific;1089
+2020-05;Bhutan;South-East Asia;395
+2020-01;Mexico;Americas;0
+2020-07;Mexico;Americas;955908
+2020-02;Ireland;Europe;1
+2020-01;Morocco;Eastern Mediterranean;0
+2020-06;Qatar;Eastern Mediterranean;629314
+2020-07;Estonia;Europe;1339
+2020-05;Bulgaria;Europe;43456
+2020-01;Egypt;Eastern Mediterranean;0
+2020-02;Angola;Africa;0
+2020-05;Jordan;Eastern Mediterranean;5164
+2020-02;Equatorial Guinea;Africa;0
+2020-02;Kosovo;Europe;0
+2020-01;China;Western Pacific;36315
+2020-04;Costa Rica;Americas;14254
+2020-07;Guatemala;Americas;487178
+2020-06;Saudi Arabia;Eastern Mediterranean;1262696
+2020-03;Sierra Leone;Africa;1
+2020-01;Australia;Western Pacific;34
+2020-03;Kyrgyzstan;Europe;581
+2020-07;Jordan;Eastern Mediterranean;4531
+2020-04;Uruguay;Americas;7104
+2020-05;Syria;Eastern Mediterranean;1979
+2020-03;Guatemala;Americas;263
+2020-03;Switzerland;Europe;143468
+2020-01;Guinea;Africa;0
+2020-06;Luxembourg;Europe;1804
+2020-05;Nicaragua;Americas;2627
+2020-04;Eritrea;Africa;886
+2020-02;Belarus;Europe;2
+2020-03;Jamaica;Americas;337
+2020-03;Mali;Africa;101
+2020-07;Saint Lucia;Americas;77
+2020-06;South Sudan;Africa;45307
+2020-04;Vietnam;Western Pacific;2772
+2020-04;Seychelles;Africa;247
+2020-03;Burundi;Africa;2
+2020-01;Slovenia;Europe;0
+2020-07;Albania;Europe;40160
+2020-01;Comoros;Africa;0
+2020-02;United Arab Emirates;Eastern Mediterranean;204
+2020-07;Equatorial Guinea;Africa;58082
+2020-03;Cyprus;Europe;1942
+2020-07;Switzerland;Europe;35443
+2020-04;Guinea-Bissau;Africa;1412
+2020-07;Yemen;Eastern Mediterranean;10820
+2020-05;Egypt;Eastern Mediterranean;281351
+2020-07;Slovenia;Europe;6384
+2020-04;Angola;Africa;412
+2020-06;West Bank and Gaza;Eastern Mediterranean;13312
+2020-07;Gabon;Africa;72433
+2020-05;New Zealand;Western Pacific;2149
+2020-02;Madagascar;Africa;0
+2020-02;Barbados;Americas;0
+2020-06;Estonia;Europe;4801
+2020-05;Denmark;Europe;41330
+2020-03;Belarus;Europe;1124
+2020-06;Grenada;Americas;33
+2020-06;Namibia;Africa;1284
+2020-05;Kenya;Africa;19033
+2020-06;Montenegro;Europe;1194
+2020-05;Eritrea;Africa;89
+2020-01;Cyprus;Europe;0
+2020-07;Brazil;Americas;14221536
+2020-03;Kazakhstan;Europe;1840
+2020-03;Fiji;Western Pacific;47
+2020-06;Croatia;Europe;3176
+2020-07;Eswatini;Africa;20462
+2020-04;Bahamas;Americas;1062
+2020-03;Guinea;Africa;104
+2020-04;Tanzania;Africa;3672
+2020-01;Eswatini;Africa;0
+2020-04;Panama;Americas;104955
+2020-03;Mozambique;Africa;56
+2020-02;Slovakia;Europe;0
+2020-06;Indonesia;South-East Asia;683606
+2020-05;Bolivia;Americas;118157
+2020-03;Mauritius;Africa;815
+2020-06;Laos;Western Pacific;12
+2020-01;Nicaragua;Americas;0
+2020-02;Sudan;Eastern Mediterranean;0
+2020-01;Brazil;Americas;0
+2020-01;Armenia;Europe;0
+2020-07;United Kingdom;Europe;6653436
+2020-02;Taiwan*;Western Pacific;539
+2020-06;Angola;Africa;2782
+2020-02;Spain;Europe;121
+2020-06;Somalia;Eastern Mediterranean;55730
+2020-01;Ecuador;Americas;0
+2020-03;Ireland;Europe;22937
+2020-06;Italy;Europe;801419
+2020-02;Togo;Africa;0
+2020-07;Georgia;Europe;3430
+2020-04;Belgium;Europe;644003
+2020-03;Montenegro;Europe;692
+2020-05;Burma;South-East Asia;2795
+2020-05;Panama;Americas;134780
+2020-02;Eswatini;Africa;0
+2020-07;Antigua and Barbuda;Americas;641
+2020-05;Mozambique;Africa;4370
+2020-07;France;Europe;2738420
+2020-06;Paraguay;Americas;18834
+2020-05;Morocco;Eastern Mediterranean;90113
+2020-03;Japan;Western Pacific;22522
+2020-06;Bosnia and Herzegovina;Europe;25542
+2020-05;Ecuador;Americas;741538
+2020-04;Suriname;Americas;136
+2020-07;Guyana;Americas;3891
+2020-02;Panama;Americas;0
+2020-07;Niger;Africa;1093
+2020-05;Bangladesh;South-East Asia;581520
+2020-06;Colombia;Americas;1019629
+2020-05;Congo (Brazzaville);Africa;8826
+2020-03;Lebanon;Eastern Mediterranean;4810
+2020-07;Indonesia;South-East Asia;947848
+2020-04;Denmark;Europe;88368
+2020-02;Latvia;Europe;0
+2020-07;South Africa;Africa;3719752
+2020-07;Western Sahara;Africa;27
+2020-05;Finland;Europe;43631
+2020-06;Bulgaria;Europe;44026
+2020-03;Uruguay;Americas;2978
+2020-02;Croatia;Europe;18
+2020-04;Iceland;Europe;18440
+2020-03;Saudi Arabia;Eastern Mediterranean;11637
+2020-03;Holy See;Europe;58
+2020-03;Greenland;Europe;68
+2020-06;Malawi;Africa;15316
+2020-05;Mongolia;Western Pacific;2388
+2020-04;Maldives;South-East Asia;2068
+2020-01;Montenegro;Europe;0
+2020-07;Nigeria;Africa;515847
+2020-07;Mozambique;Africa;34374
+2020-06;Jamaica;Americas;5223
+2020-07;Sri Lanka;South-East Asia;13223
+2020-04;Nepal;South-East Asia;639
+2020-02;Somalia;Eastern Mediterranean;0
+2020-02;Haiti;Americas;0
+2020-05;Eswatini;Africa;3626
+2020-06;Holy See;Europe;50
+2020-02;Fiji;Western Pacific;0
+2020-04;Kuwait;Eastern Mediterranean;39360
+2020-04;Peru;Americas;261741
+2020-07;Oman;Eastern Mediterranean;542221
+2020-07;Costa Rica;Americas;171329
+2020-01;Mauritius;Africa;0
+2020-02;Germany;Europe;387
+2020-01;Georgia;Europe;0
+2020-07;Saint Vincent and the Grenadines;Americas;184
+2020-04;Ireland;Europe;247812
+2020-05;India;South-East Asia;1777386
+2020-02;Switzerland;Europe;36
+2020-07;Dominica;Americas;0
+2020-01;Romania;Europe;0
+2020-05;Montenegro;Europe;640
+2020-05;Central African Republic;Africa;10866
+2020-06;Chile;Americas;1397332
+2020-06;Thailand;South-East Asia;2204
+2020-03;Lithuania;Europe;3547
+2020-02;Suriname;Americas;0
+2020-02;Armenia;Europe;0
+2020-07;Qatar;Eastern Mediterranean;131255
+2020-05;South Sudan;Africa;11831
+2020-01;Angola;Africa;0
+2020-05;Andorra;Europe;3475
+2020-05;Saudi Arabia;Eastern Mediterranean;816351
+2020-04;Chile;Americas;174639
+2020-06;Liberia;Africa;7507
+2020-04;Equatorial Guinea;Africa;2718
+2020-03;Romania;Europe;12946
+2020-02;Burundi;Africa;0
+2020-01;Guyana;Americas;0
+2020-07;Rwanda;Africa;18489
+2020-04;Guyana;Americas;1122
+2020-03;Bahamas;Americas;91
+2020-01;Burkina Faso;Africa;0
+2020-04;Venezuela;Americas;3556
+2020-07;Trinidad and Tobago;Americas;163
+2020-03;Bolivia;Americas;671
+2020-01;Israel;Europe;0
+2020-06;Tajikistan;Europe;47453
+2020-03;Andorra;Europe;2711
+2020-01;Grenada;Americas;0
+2020-06;Bhutan;South-East Asia;1179
+2020-06;Fiji;Western Pacific;9
+2020-01;Congo (Kinshasa);Africa;0
+2020-05;Malawi;Africa;1898
+2020-06;Bolivia;Americas;466668
+2020-07;Somalia;Eastern Mediterranean;45494
+2020-06;Iceland;Europe;198
+2020-06;Sri Lanka;South-East Asia;18225
+2020-02;Ecuador;Americas;0
+2020-06;Brazil;Americas;12027095
+2020-05;Dominica;Americas;29
+2020-07;Montenegro;Europe;30983
+2020-07;Saudi Arabia;Eastern Mediterranean;1472201
+2020-01;Mozambique;Africa;0
+2020-07;Turkey;Europe;386568
+2020-03;Latvia;Europe;3255
+2020-04;Jordan;Eastern Mediterranean;4786
+2020-06;Uruguay;Americas;1875
+2020-04;South Korea;Western Pacific;80635
+2020-02;Qatar;Eastern Mediterranean;1
+2020-04;Argentina;Americas;54504
+2020-04;Mauritius;Africa;4666
+2020-06;Niger;Africa;1524
+2020-06;Denmark;Europe;16808
+2020-05;Niger;Africa;4218
+2020-03;Seychelles;Africa;111
+2020-03;Brazil;Americas;35861
+2020-05;Timor-Leste;South-East Asia;744
+2020-02;Paraguay;Americas;0
+2020-05;Dominican Republic;Americas;202583
+2020-03;Taiwan*;Western Pacific;3151
+2020-04;Tunisia;Eastern Mediterranean;19149
+2020-03;Comoros;Africa;0
+2020-07;Djibouti;Eastern Mediterranean;3449
+2020-04;Croatia;Europe;31266
+2020-07;Malawi;Africa;43571
+2020-04;Colombia;Americas;80377
+2020-01;Saint Kitts and Nevis;Americas;0
+2020-01;Syria;Eastern Mediterranean;0
+2020-01;Brunei;Western Pacific;0
+2020-04;United Arab Emirates;Eastern Mediterranean;143358
+2020-07;Philippines;Western Pacific;1059305
+2020-04;Cabo Verde;Africa;1363
+2020-01;Dominica;Americas;0
+2020-04;India;South-East Asia;347379
+2020-06;Singapore;Western Pacific;289922
+2020-03;Bulgaria;Europe;3413
+2020-06;Libya;Eastern Mediterranean;11139
+2020-06;Western Sahara;Africa;33
+2020-06;Suriname;Americas;5003
+2020-06;Malaysia;Western Pacific;23842
+2020-01;Saudi Arabia;Eastern Mediterranean;0
+2020-07;Singapore;Western Pacific;111514
+2020-01;Latvia;Europe;0
+2020-05;Iran;Eastern Mediterranean;569536
+2020-07;Sudan;Eastern Mediterranean;120142
+2020-05;United Kingdom;Europe;5928869
+2020-04;Fiji;Western Pacific;362
+2020-06;Saint Lucia;Americas;20
+2020-03;Iraq;Eastern Mediterranean;4355
+2020-02;Peru;Americas;0
+2020-02;Botswana;Africa;0
+2020-02;Czechia;Europe;0
+2020-05;Botswana;Africa;342
+2020-02;Saint Lucia;Americas;0
+2020-01;Portugal;Europe;0
+2020-03;Argentina;Americas;5496
+2020-06;Tunisia;Eastern Mediterranean;2193
+2020-07;Peru;Americas;2649156
+2020-02;Timor-Leste;South-East Asia;0
+2020-07;Portugal;Europe;363676
+2020-05;Georgia;Europe;8048
+2020-02;South Korea;Western Pacific;11762
+2020-07;Ethiopia;Africa;142263
+2020-04;Liberia;Africa;1501
+2020-07;Timor-Leste;South-East Asia;648
+2020-05;Sudan;Eastern Mediterranean;60838
+2020-06;Djibouti;Eastern Mediterranean;38854
+2020-04;Portugal;Europe;496511
+2020-06;Armenia;Europe;289777
+2020-04;Ethiopia;Africa;1938
+2020-03;Senegal;Africa;1262
+2020-03;Dominican Republic;Americas;5893
+2020-01;Taiwan*;Western Pacific;52
+2020-03;Bhutan;South-East Asia;46
+2020-01;Ethiopia;Africa;0
+2020-04;Iran;Eastern Mediterranean;681964
+2020-02;Philippines;Western Pacific;34
+2020-07;Kuwait;Eastern Mediterranean;252301
+2020-01;Andorra;Europe;0
+2020-04;Laos;Western Pacific;434
+2020-07;Netherlands;Europe;1222266
+2020-05;Singapore;Western Pacific;548934
+2020-02;Estonia;Europe;3
+2020-06;Tanzania;Africa;9150
+2020-04;Namibia;Africa;329
+2020-04;Grenada;Americas;323
+2020-03;Tanzania;Africa;157
+2020-01;Jordan;Eastern Mediterranean;0
+2020-07;Papua New Guinea;Western Pacific;292
+2020-07;Mauritius;Africa;49
+2020-05;Rwanda;Africa;3606
+2020-07;South Korea;Western Pacific;25260
+2020-07;Ukraine;Europe;711349
+2020-06;Mongolia;Western Pacific;2568
+2020-06;India;South-East Asia;4703849
+2020-01;Algeria;Africa;0
+2020-05;Gabon;Africa;31028
+2020-05;France;Europe;2838230
+2020-06;South Africa;Africa;1104173
+2020-05;Poland;Europe;317006
+2020-04;Yemen;Eastern Mediterranean;22
+2020-05;Cambodia;Western Pacific;44
+2020-06;Poland;Europe;390638
+2020-06;Haiti;Americas;122326
+2020-04;Canada;Americas;888899
+2020-02;Antigua and Barbuda;Americas;0
+2020-07;Canada;Americas;2751092
+2020-03;Sao Tome and Principe;Africa;0
+2020-05;Albania;Europe;6138
+2020-04;Philippines;Western Pacific;140477
+2020-02;Iceland;Europe;2
+2020-02;Azerbaijan;Europe;0
+2020-01;Yemen;Eastern Mediterranean;0
+2020-02;Burkina Faso;Africa;0
+2020-05;Nigeria;Africa;129639
+2020-06;Rwanda;Africa;8642
+2020-04;Tajikistan;Europe;15
+2020-07;Morocco;Eastern Mediterranean;80768
+2020-07;Moldova;Europe;168576
+2020-02;Honduras;Americas;0
+2020-01;Canada;Americas;12
+2020-03;Israel;Europe;31509
+2020-04;Syria;Eastern Mediterranean;849
+2020-06;Yemen;Eastern Mediterranean;11671
+2020-04;Trinidad and Tobago;Americas;2363
+2020-06;Egypt;Eastern Mediterranean;977855
+2020-07;Seychelles;Africa;2125
+2020-05;Equatorial Guinea;Africa;19544
+2020-02;Israel;Europe;18
+2020-07;Cote d'Ivoire;Africa;153905
+2020-04;Malawi;Africa;419
+2020-04;Brunei;Western Pacific;990
+2020-03;Malawi;Africa;0
+2020-01;Slovakia;Europe;0
+2020-06;Guinea-Bissau;Africa;38863
+2020-06;Bahamas;Americas;646
+2020-01;Afghanistan;Eastern Mediterranean;0
+2020-04;Slovakia;Europe;22631
+2020-07;Andorra;Europe;441
+2020-01;El Salvador;Americas;0
+2020-03;Venezuela;Americas;1023
+2020-05;North Macedonia;Europe;13461
+2020-05;Grenada;Americas;210
+2020-02;Denmark;Europe;5
+2020-04;Honduras;Americas;11457
+2020-03;Libya;Eastern Mediterranean;32
+2020-07;Kyrgyzstan;Europe;226772
+2020-05;Madagascar;Africa;6994
+2020-01;Netherlands;Europe;0
+2020-04;Taiwan*;Western Pacific;6938
+2020-04;United Kingdom;Europe;2856656
+2020-03;Cote d'Ivoire;Africa;1010
+2020-01;Trinidad and Tobago;Americas;0
+2020-06;Burundi;Africa;1181
+2020-04;Sierra Leone;Africa;961
+2020-01;Eritrea;Africa;0
+2020-05;Thailand;South-East Asia;3695
+2020-03;United Kingdom;Europe;268786
+2020-02;Colombia;Americas;0
+2020-05;Malaysia;Western Pacific;43881
+2020-03;Mauritania;Africa;38
+2020-02;Guinea-Bissau;Africa;0
+2020-04;Poland;Europe;194675
+2020-03;Peru;Americas;7042
+2020-04;Somalia;Eastern Mediterranean;4914
+2020-03;Gabon;Africa;74
+2020-06;France;Europe;2772630
+2020-02;Congo (Kinshasa);Africa;0
+2020-02;Sierra Leone;Africa;0
+2020-07;Afghanistan;Eastern Mediterranean;316691
+2020-07;Romania;Europe;286832
+2020-06;Sao Tome and Principe;Africa;13781
+2020-04;Gabon;Africa;2633
+2020-02;West Bank and Gaza;Eastern Mediterranean;0
+2020-06;Ireland;Europe;23466
+2020-03;West Bank and Gaza;Eastern Mediterranean;1141
+2020-07;Belgium;Europe;978795
+2020-02;Namibia;Africa;0
+2020-02;Oman;Eastern Mediterranean;21
+2020-01;Zimbabwe;Africa;0
+2020-05;Maldives;South-East Asia;29535
+2020-04;Israel;Europe;257703
+2020-03;Morocco;Eastern Mediterranean;3454
+2020-07;Brunei;Western Pacific;0
+2020-01;Austria;Europe;0
+2020-03;Georgia;Europe;1127
+2020-06;Cambodia;Western Pacific;113
+2020-04;Zimbabwe;Africa;490
+2020-07;Zimbabwe;Africa;26054
+2020-07;Iraq;Eastern Mediterranean;744274
+2020-05;Senegal;Africa;40167
+2020-04;Armenia;Europe;23868
+2020-06;Syria;Eastern Mediterranean;5344
+2020-02;Vietnam;Western Pacific;184
+2020-05;Lebanon;Eastern Mediterranean;16281
+2020-01;Benin;Africa;0
+2020-01;Uzbekistan;Europe;0
+2020-04;Bahrain;Eastern Mediterranean;25521
+2020-06;Liechtenstein;Europe;-1
+2020-01;Poland;Europe;0
+2020-02;Guatemala;Americas;0
+2020-04;Guatemala;Americas;6332
+2020-06;Belarus;Europe;662248
+2020-05;Peru;Americas;1717435
+2020-03;Luxembourg;Europe;16777
+2020-05;Sao Tome and Principe;Africa;6903
+2020-01;Oman;Eastern Mediterranean;0
+2020-04;France;Europe;2294556
+2020-06;Greenland;Europe;6
+2020-04;Nicaragua;Americas;106
+2020-01;Libya;Eastern Mediterranean;0
+2020-06;Nicaragua;Americas;19311
+2020-06;Lesotho;Africa;204
+2020-06;Cabo Verde;Africa;12181
+2020-04;Paraguay;Americas;3602
+2020-05;Comoros;Africa;828
+2020-02;Poland;Europe;0
+2020-05;Cameroon;Africa;53729
+2020-02;Cameroon;Africa;0
+2020-01;Seychelles;Africa;0
+2020-05;Indonesia;South-East Asia;385501
+2020-03;Poland;Europe;15917
+2020-06;New Zealand;Western Pacific;187
+2020-03;France;Europe;336076
+2020-06;Peru;Americas;3113583
+2020-01;Central African Republic;Africa;0
+2020-03;Dominica;Americas;79
+2020-03;Finland;Europe;13129
+2020-02;Trinidad and Tobago;Americas;0
+2020-05;Brazil;Americas;4228521
+2020-04;Uzbekistan;Europe;25660
+2020-02;Greece;Europe;12
+2020-01;Nigeria;Africa;0
+2020-03;Slovenia;Europe;8456
+2020-07;Latvia;Europe;3220
+2020-02;Italy;Europe;3719
+2020-03;Moldova;Europe;2255
+2020-04;Cameroon;Africa;20486
+2020-02;Grenada;Americas;0
+2020-06;Nepal;South-East Asia;168655
+2020-04;China;Western Pacific;95856
+2020-07;Lithuania;Europe;6479
+2020-07;Belarus;Europe;250279
+2020-05;Mauritius;Africa;63
+2020-03;Uzbekistan;Europe;1022
+2020-05;Saint Kitts and Nevis;Americas;49
+2020-05;Israel;Europe;115775
+2020-02;Morocco;Eastern Mediterranean;0
+2020-01;Guatemala;Americas;0
+2020-04;Ghana;Africa;21545
+2020-07;Nicaragua;Americas;23757
+2020-04;Malaysia;Western Pacific;66293
+2020-01;Lesotho;Africa;0
+2020-03;Burkina Faso;Africa;1654
+2020-07;Burma;South-East Asia;1679
+2020-04;Russia;Europe;1023297
+2020-05;San Marino;Europe;12479
+2020-05;Hungary;Europe;52926
+2020-07;India;South-East Asia;9150047
+2020-05;Uzbekistan;Europe;18989
+2020-07;Mauritania;Africa;66527
+2020-01;Gabon;Africa;0
+2020-07;Sweden;Europe;1890781
+2020-04;San Marino;Europe;9417
+2020-02;Nepal;South-East Asia;11
+2020-01;Chad;Africa;0
+2020-05;Canada;Americas;2195249
+2020-03;Turkey;Europe;57126
+2020-05;Somalia;Eastern Mediterranean;33983
+2020-02;Australia;Western Pacific;236
+2020-01;Liberia;Africa;0
+2020-03;Djibouti;Eastern Mediterranean;125
+2020-07;Bolivia;Americas;922194
+2020-03;Chad;Africa;35
+2020-06;Central African Republic;Africa;60064
+2020-01;Malawi;Africa;0
+2020-05;Qatar;Eastern Mediterranean;782140
+2020-04;Moldova;Europe;49978
+2020-04;Singapore;Western Pacific;168209
+2020-01;Zambia;Africa;0
+2020-06;Mauritania;Africa;47223
+2020-07;Uzbekistan;Europe;159586
+2020-03;San Marino;Europe;3049
+2020-04;Sudan;Eastern Mediterranean;2453
+2020-04;Bhutan;South-East Asia;94
+2020-02;Jordan;Eastern Mediterranean;0
+2020-04;Chad;Africa;588
+2020-01;Liechtenstein;Europe;0
+2020-06;Afghanistan;Eastern Mediterranean;551209
+2020-03;Italy;Europe;947585
+2020-06;South Korea;Western Pacific;32224
+2020-06;Netherlands;Europe;1280144
+2020-06;Chad;Africa;1907
+2020-02;Luxembourg;Europe;1
+2020-05;Taiwan*;Western Pacific;1574
+2020-04;Saint Kitts and Nevis;Americas;361
+2020-03;Singapore;Western Pacific;7426
+2020-02;Moldova;Europe;0
+2020-05;Ukraine;Europe;375537
+2020-07;Burundi;Africa;2152
+2020-03;Burma;South-East Asia;54
+2020-04;Algeria;Africa;36228
+2020-02;Mali;Africa;0
+2020-01;Mali;Africa;0
+2020-02;Tunisia;Eastern Mediterranean;0
+2020-01;Gambia;Africa;0
+2020-05;Austria;Europe;33617
+2020-06;Saint Kitts and Nevis;Americas;0
+2020-03;Albania;Europe;1900
+2020-02;Uruguay;Americas;0
+2020-05;Sierra Leone;Africa;8868
+2020-05;Costa Rica;Americas;9760
+2020-03;Syria;Eastern Mediterranean;47
+2020-02;Uzbekistan;Europe;0
+2020-01;Bahrain;Eastern Mediterranean;0
+2020-04;Mauritania;Africa;66
+2020-03;United Arab Emirates;Eastern Mediterranean;4648
+2020-01;San Marino;Europe;0
+2020-04;Greenland;Europe;47
+2020-06;Guinea;Africa;38675
+2020-06;Barbados;Americas;135
+2020-01;Albania;Europe;0
+2020-06;Cyprus;Europe;4422
+2020-05;Czechia;Europe;91509
+2020-05;Belize;Americas;11
+2020-07;Kazakhstan;Europe;741583
+2020-06;Papua New Guinea;Western Pacific;21
+2020-06;Ethiopia;Africa;77088
+2020-02;Venezuela;Americas;0
+2020-02;Liechtenstein;Europe;0
+2020-03;Ukraine;Europe;2935
+2020-07;Czechia;Europe;122208
+2020-06;Ukraine;Europe;527895
+2020-07;Comoros;Africa;743
+2020-06;Dominican Republic;Americas;285337
+2020-06;Germany;Europe;226697
+2020-01;Peru;Americas;0
+2020-02;Rwanda;Africa;0
+2020-04;Rwanda;Africa;2783
+2020-02;Yemen;Eastern Mediterranean;0
+2020-04;Congo (Brazzaville);Africa;2966
+2020-04;Mali;Africa;4092
+2020-03;Kosovo;Europe;532
+2020-06;Guyana;Americas;2183
+2020-06;Equatorial Guinea;Africa;35187
+2020-03;El Salvador;Americas;155
+2020-03;Saint Kitts and Nevis;Americas;25
+2020-02;Djibouti;Eastern Mediterranean;0
+2020-05;Kosovo;Europe;7981
+2020-05;Djibouti;Eastern Mediterranean;24064
+2020-07;Liechtenstein;Europe;52
+2020-05;Philippines;Western Pacific;284648
+2020-01;Guinea-Bissau;Africa;0
+2020-07;Benin;Africa;21914
+2020-06;Panama;Americas;270303
+2020-04;Hungary;Europe;37362
+2020-06;Romania;Europe;154429
+2020-06;Portugal;Europe;371887
+2020-07;Mongolia;Western Pacific;1382
+2020-02;Niger;Africa;0
+2020-03;Mexico;Americas;7831
+2020-01;Lebanon;Eastern Mediterranean;0
+2020-02;Bahamas;Americas;0
+2020-04;Sri Lanka;South-East Asia;6595
+2020-07;Germany;Europe;179517
+2020-03;Liberia;Africa;41
+2020-02;Uganda;Africa;0
+2020-04;Djibouti;Eastern Mediterranean;11570
+2020-03;Benin;Africa;67
+2020-04;Greece;Europe;50280
+2020-02;Ukraine;Europe;0
+2020-01;Congo (Brazzaville);Africa;0
+2020-06;Trinidad and Tobago;Americas;122
+2020-07;Jamaica;Americas;3221
+2020-05;Sri Lanka;South-East Asia;16953
+2020-04;Qatar;Eastern Mediterranean;141545
+2020-03;Algeria;Africa;3905
+2020-06;Monaco;Europe;76
+2020-06;Austria;Europe;13540
+2020-03;Timor-Leste;South-East Asia;10
+2020-05;United Arab Emirates;Eastern Mediterranean;424131
+2020-06;Uzbekistan;Europe;46036
+2020-07;Barbados;Americas;121
+2020-01;Namibia;Africa;0
+2020-07;Madagascar;Africa;69713
+2020-02;Maldives;South-East Asia;0
+2020-06;Zimbabwe;Africa;9841
+2020-04;Cote d'Ivoire;Africa;14378
+2020-04;Czechia;Europe;143328
+2020-01;Bhutan;South-East Asia;0
+2020-05;Mauritania;Africa;3583
+2020-02;Albania;Europe;0
+2020-06;Russia;Europe;7029468
+2020-03;Botswana;Africa;6
+2020-01;Togo;Africa;0
+2020-01;Luxembourg;Europe;0
+2020-03;Togo;Africa;252
+2020-05;Turkey;Europe;1250818
+2020-02;Serbia;Europe;0
+2020-04;Serbia;Europe;132541
+2020-02;Chile;Americas;14
+2020-05;Romania;Europe;195644
+2020-04;Lesotho;Africa;0
+2020-04;Cyprus;Europe;16939
+2020-02;Laos;Western Pacific;0
+2020-06;Antigua and Barbuda;Americas;307
+2020-05;Haiti;Americas;17262
+2020-03;Zambia;Africa;194
+2020-07;Congo (Brazzaville);Africa;42959
+2020-01;Switzerland;Europe;0
+2020-02;Hungary;Europe;0
+2020-07;Syria;Eastern Mediterranean;11754
+2020-03;Egypt;Eastern Mediterranean;5395
+2020-03;Angola;Africa;41
+2020-01;United Arab Emirates;Eastern Mediterranean;12
+2020-01;Tajikistan;Europe;0
+2020-05;Honduras;Americas;72386
+2020-06;Honduras;Americas;273668
+2020-05;Guatemala;Americas;58919
+2020-05;US;Americas;33958851
+2020-07;Australia;Western Pacific;75072
+2020-07;Thailand;South-East Asia;2217
+2020-01;Sao Tome and Principe;Africa;0
+2020-04;Antigua and Barbuda;Americas;430
+2020-06;Moldova;Europe;149908
+2020-06;Taiwan*;Western Pacific;164
+2020-02;North Macedonia;Europe;4
+2020-04;Japan;Western Pacific;224847
+2020-03;Laos;Western Pacific;50
+2020-01;Vietnam;Western Pacific;18
+2020-03;Congo (Brazzaville);Africa;97
+2020-02;Brunei;Western Pacific;0
+2020-06;Cuba;Americas;4996
+2020-05;West Bank and Gaza;Eastern Mediterranean;3445
+2020-04;Belize;Americas;304
+2020-07;North Macedonia;Europe;101163
+2020-02;Saint Kitts and Nevis;Americas;0
+2020-05;Papua New Guinea;Western Pacific;24
+2020-04;Niger;Africa;10265
+2020-02;Japan;Western Pacific;2036
+2020-01;Uruguay;Americas;0
+2020-07;Honduras;Americas;696962
+2020-06;Gabon;Africa;75342
+2020-04;Guinea;Africa;13098
+2020-02;Thailand;South-East Asia;539
+2020-03;Cameroon;Africa;1020
+2020-02;Netherlands;Europe;8
+2020-06;Saint Vincent and the Grenadines;Americas;129
+2020-06;Algeria;Africa;80820
+2020-03;Lesotho;Africa;0
+2020-02;Saint Vincent and the Grenadines;Americas;0
+2020-03;Austria;Europe;81293
+2020-02;Senegal;Africa;0
+2020-07;Armenia;Europe;299183
+2020-04;Saint Lucia;Americas;196
+2020-01;Kosovo;Europe;0
+2020-06;Costa Rica;Americas;30195
+2020-05;Holy See;Europe;305
+2020-04;Haiti;Americas;1217
+2020-04;Bosnia and Herzegovina;Europe;22982
+2020-03;Australia;Western Pacific;33182
+2020-04;South Sudan;Africa;191
+2020-01;Qatar;Eastern Mediterranean;0
+2020-03;Saint Lucia;Americas;61
+2020-06;United Kingdom;Europe;6916356
+2020-02;Tajikistan;Europe;0
+2020-07;Guinea-Bissau;Africa;29562
+2020-03;New Zealand;Western Pacific;3293
+2020-04;Mexico;Americas;115658
+2020-04;Germany;Europe;1636325
+2020-07;Fiji;Western Pacific;171
+2020-05;Latvia;Europe;11348
+2020-03;Nigeria;Africa;793
+2020-06;Venezuela;Americas;75985
+2020-03;Equatorial Guinea;Africa;129
+2020-03;Kuwait;Eastern Mediterranean;3515
+2020-05;Italy;Europe;2235008
+2020-07;Italy;Europe;357950
+2020-07;Saint Kitts and Nevis;Americas;42
+2020-06;Congo (Brazzaville);Africa;14933
+2020-02;Cabo Verde;Africa;0
+2020-06;Lithuania;Europe;8335
+2020-07;Bahamas;Americas;1660
+2020-06;Mauritius;Africa;92
+2020-04;Ecuador;Americas;285136
+2020-02;Bulgaria;Europe;0
+2020-07;Angola;Africa;10688
+2020-02;Liberia;Africa;0
+2020-07;Congo (Kinshasa);Africa;106489
+2020-06;Ghana;Africa;169244
+2020-03;Cabo Verde;Africa;41
+2020-02;El Salvador;Americas;0
+2020-01;Panama;Americas;0
+2020-03;Haiti;Americas;93
+2020-01;Western Sahara;Africa;0
+2020-06;Bahrain;Eastern Mediterranean;160761
+2020-04;Mongolia;Western Pacific;613
+2020-01;Paraguay;Americas;0
+2020-07;Mali;Africa;15415
+2020-02;Libya;Eastern Mediterranean;0
+2020-02;Costa Rica;Americas;0
+2020-07;Finland;Europe;4212
+2020-06;Jordan;Eastern Mediterranean;7295
+2020-07;Lebanon;Eastern Mediterranean;28235
+2020-05;Moldova;Europe;95675
+2020-04;Slovenia;Europe;30101
+2020-02;Lesotho;Africa;0
+2020-07;West Bank and Gaza;Eastern Mediterranean;146230
+2020-06;Dominica;Americas;32
+2020-05;Cote d'Ivoire;Africa;31660
+2020-04;Indonesia;South-East Asia;132787
+2020-01;Tanzania;Africa;0
+2020-07;Burkina Faso;Africa;2668
+2020-03;Hungary;Europe;3100
+2020-02;Dominican Republic;Americas;0
+2020-05;Benin;Africa;4052
+2020-05;Angola;Africa;1088
+2020-01;Bahamas;Americas;0
+2020-02;Bolivia;Americas;0
+2020-04;Brazil;Americas;581042
+2020-04;Andorra;Europe;12553
+2020-07;Vietnam;Western Pacific;785
+2020-01;Kuwait;Eastern Mediterranean;0
+2020-04;Eswatini;Africa;626
+2020-01;Chile;Americas;0
+2020-03;Malta;Europe;1672
+2020-05;Tunisia;Eastern Mediterranean;7638
+2020-04;Romania;Europe;163833
+2020-01;Sierra Leone;Africa;0
+2020-05;Slovakia;Europe;11822
+2020-07;Uruguay;Americas;2811
+2020-07;Tanzania;Africa;8235
+2020-07;Panama;Americas;595532
+2020-02;Central African Republic;Africa;0
+2020-01;Bosnia and Herzegovina;Europe;0
+2020-04;Ukraine;Europe;123658
+2020-03;Grenada;Americas;52
+2020-03;Nicaragua;Americas;28
+2020-05;Germany;Europe;520811
+2020-02;China;Western Pacific;1228416
+2020-02;San Marino;Europe;3
+2020-06;Togo;Africa;6253
+2020-02;Cyprus;Europe;0
+2020-07;Malaysia;Western Pacific;2784
+2020-01;Senegal;Africa;0
+2020-05;Algeria;Africa;84689
+2020-02;Guinea;Africa;0
+2020-04;Austria;Europe;163963
+2020-02;India;South-East Asia;42
+2020-06;Czechia;Europe;79502
+2020-01;Philippines;Western Pacific;2
+2020-02;Nigeria;Africa;2
+### FIN ARCHIVO ###
